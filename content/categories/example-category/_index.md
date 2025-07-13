@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Usual Talk
+description: For posts that aren't of any real importance.
 image:
 
 # Badge style
