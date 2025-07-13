@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://remfexxel.github.io/hugo/"
+baseurl = "https://remfexxel.github.io/"
 languageCode = "en-us"
 title = "Rem's Site"
 
